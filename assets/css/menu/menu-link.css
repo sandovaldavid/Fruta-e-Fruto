@@ -4,7 +4,7 @@
     text-decoration: none;
     text-transform: capitalize;
 }
-.menu__lista__item__link#activo{
+.menu__lista__item:first-child .menu__lista__item__link{
     color: #333333;
     font-weight: bold;
 }
