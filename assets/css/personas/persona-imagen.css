@@ -20,3 +20,15 @@
     width: 300px;
     border-radius: 100%;
 }
+@media screen and (min-width: 768px) {
+    .persona__imagen {
+        height: 200px;
+        width: 200px;
+    }
+}
+@media screen and (min-width: 992px) {
+    .persona__imagen {
+        height: 300px;
+        width: 300px;
+    }
+}
