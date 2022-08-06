@@ -3,3 +3,8 @@
     width: 100%;
     height: calc(100vh - 72px);
 }
+@media screen and (max-width: 768px) {
+    .banner__imagen{
+        height: calc(100vh - 51px);
+    }
+}
