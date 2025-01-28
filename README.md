@@ -116,6 +116,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 <p align="center">Made with ❤️ by Your Name</p>
 
 <p align="center">
-<a href="https://github.com/your-username">Github</a> •
-<a href="https://linkedin.com/in/your-username">LinkedIn</a>
+<a href="https://github.com/sandovaldavid">Github</a> •
+<a href="https://linkedin.com/in/jdavidsandovals">LinkedIn</a>
 </p>
