@@ -64,13 +64,13 @@ assets/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/arquitectura-css.git
+git clone https://github.com/sandovaldavid/Fruta-e-Fruto.git
 ```
 
 1. Navigate to project directory
 
 ```bash
-cd arquitectura-css
+cd Fruta-e-Fruto
 ```
 
 1. Open `index.html` in your browser or use a local server
